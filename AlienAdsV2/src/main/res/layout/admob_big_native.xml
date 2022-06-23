@@ -89,7 +89,7 @@
                         android:layout_marginBottom="5dp"
                         android:text="1st - The Big Marketplace Source Code for Monetize Mobile Application on Indonesia"
                         android:textColor="@color/native_description"
-                        android:textSize="12sp" />
+                        android:textSize="10sp" />
 
                     <LinearLayout
                         android:layout_width="match_parent"
